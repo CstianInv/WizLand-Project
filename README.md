@@ -26,3 +26,4 @@ Join the Community
 Join our Discord server to engage with fellow wizards, discuss strategies, and explore new ways to enhance your WizLand experience!
 
 Let the adventure begin! 🧙🔮
+![wiz1](https://github.com/CstianInv/WizLand-Project/assets/159933966/298a6797-8d82-491e-9194-fb1811aec7e3)
