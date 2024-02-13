@@ -3,6 +3,8 @@ WizLand: An Open-Source Online Game in Python with Pygame
 Welcome to WizLand, an open-source online game written entirely in Python using Pygame! Dive into a magical world where creativity knows no bounds.
 Getting Started
 
+Discord Server:    https://discord.gg/7g45gTdAyp
+
 To launch the game, simply execute the following commands:
 
 Windows:
