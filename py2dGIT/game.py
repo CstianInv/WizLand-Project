@@ -7,7 +7,7 @@ import json
 import math
 
 
-server_address = ('5.tcp.eu.ngrok.io', 15225)  #connect to public WizLand Servers for testing
+server_address = ('147.185.221.18', 31949)  #connect to public WizLand Servers for testing
 #server_address = ('127.0.0.1', 25565)       #local machine server hosting for easy troubleshooting
 
 # Initialize Pygame
